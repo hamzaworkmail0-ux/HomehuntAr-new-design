@@ -1,0 +1,8 @@
+{
+  "name": "Home Hunt AR",
+  "description": "Premium AR-powered real estate suite for the Canadian market. Visualize, strategize, and tour your future home with Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
